@@ -1,6 +1,6 @@
-# jwtAuthApp - frontend
+# idbconnector App - frontend
 
-A client using the API for authentication using JWT Tokens.
+A client using the API for authentication using JWT Tokens .
 
 ## Build Setup
 
@@ -8,7 +8,7 @@ A client using the API for authentication using JWT Tokens.
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:10002
 $ npm run serve
 
 # build for production and launch server
